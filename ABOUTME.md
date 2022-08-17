@@ -1,15 +1,15 @@
 # Introduction
 
-I'm Victoria Zanello, I come from North of France. I've been working since november 2019 in Zalando as a customer specialist for French, Belgium and Luxembourg market. However I am reskilling in Full Stack, and more particular in Mobile Development.
+I'm Victoria Zanello, I come from the north of France. I've been working in Zalando since november 2019 in Zalando as a customer specialist for French, Belgium and Luxembourg markets. However I am following a Full Stack course and I would like to reskill in Mobile Development.
 
 
 ## 5 cities I have visited
 
-- [ ] London
-- [ ] Brighton
-- [ ] Edinburgh
-- [ ] Lisbon
-- [ ] Porto
+- [X] London
+- [X] Brighton
+- [X] Edinburgh
+- [X] Lisbon
+- [X] Porto
 
 
 ## My hobbies
@@ -49,16 +49,11 @@ I'm Victoria Zanello, I come from North of France. I've been working since novem
 1. [Electric Light Orchestra - Mr. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp?si=61905d0ef80d476f)
 
 
-
 ## My favorite place to be
 
-![random image](lerici-gulf-la-spezia.jpg)
+![random image](https://www.italymagazine.com/sites/default/files/styles/800xauto/public/lerici-gulf-la-spezia.jpg?itok=vObs9_4m)
 
 
 ## My current mood
 
-🤔
-
-🫣   
-
-😊
+🤔 🫣 😊
